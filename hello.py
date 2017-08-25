@@ -2,4 +2,4 @@
 # coding: utf8
 #
 
-print "Hello, Python'
+print "Hello, Python"
