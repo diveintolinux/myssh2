@@ -1,4 +1,4 @@
 #!/bin/bash
 #
-xyz
-abc
+
+echo "Hello, Bash"
